@@ -1,6 +1,6 @@
 # Fraud Risk Decision Engine : README
 
-Individual task, data science internship. This project builds a transaction fraud decision engine: a calibrated fraud probability, an **Approve / Review / Block** decision, and an explanation for each risky transaction. It also covers validation, cost analysis, robustness testing, monitoring and governance.
+This project builds a transaction fraud decision engine: a calibrated fraud probability, an **Approve / Review / Block** decision, and an explanation for each risky transaction. It also covers validation, cost analysis, robustness testing, monitoring and governance.
 
 All money figures are **hypothetical**. The hold-out set (600 rows, 73 frauds) has **not been used for any choice** and is reserved for one final check.
 
