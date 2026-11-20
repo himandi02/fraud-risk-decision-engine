@@ -22,10 +22,7 @@ All money figures are **hypothetical**. The hold-out set (600 rows, 73 frauds) h
 | `fraud_features.py` | Feature engineering and feature-set selector (needed to load the `.joblib` files) | Part C |
 | `fraud_calibration.py` | Platt calibrator and the `CalibratedFraudModel` wrapper stored in `04_calibrated_model.joblib` | Part F |
 | `fraud_costs.py` | Cost scenarios, threshold search and honest cost evaluation behind `05_threshold_cost_analysis.csv` | Part E |
-| `Part_K_tables/` | `K_*.csv` tables written by Part K (monitoring metrics, drift plan, triggers, sensitivity, workload) | Part K |
-| `Part_K_figures/` | `K01` to `K03` figures | Part K |
 
-Parts A to J also write many tables (`A_`, `B_`, ..., `J_` prefixes) and figures into `outputs/` and `outputs/figures/` when the notebook is run.
 
 ---
 
