@@ -1,0 +1,21 @@
+params_json,mean_test_score,std_test_score,rank_test_score,param_model__C,param_model__penalty,param_select__feature_set
+"{""model__C"": 0.0745934328572655, ""model__penalty"": ""l1"", ""select__feature_set"": ""recommended_no_red_flags""}",0.24744781455525136,0.06885281134359225,13,0.0745934328572655,l1,recommended_no_red_flags
+"{""model__C"": 4.5705630998014515, ""model__penalty"": ""l1"", ""select__feature_set"": ""base""}",0.2522131767404121,0.06826300695717262,8,4.5705630998014515,l1,base
+"{""model__C"": 0.006026889128682512, ""model__penalty"": ""l1"", ""select__feature_set"": ""recommended_no_red_flags""}",0.12125,0.0008333333333333304,19,0.006026889128682512,l1,recommended_no_red_flags
+"{""model__C"": 0.0019517224641449498, ""model__penalty"": ""l2"", ""select__feature_set"": ""base""}",0.22502072034161041,0.056551796415653166,17,0.0019517224641449498,l2,base
+"{""model__C"": 1.0129197956845732, ""model__penalty"": ""l2"", ""select__feature_set"": ""recommended_no_red_flags""}",0.24407216210840404,0.07404325321759049,15,1.0129197956845732,l2,recommended_no_red_flags
+"{""model__C"": 0.001267425589893723, ""model__penalty"": ""l2"", ""select__feature_set"": ""all""}",0.25685502177884,0.06511873701610865,3,0.001267425589893723,l2,all
+"{""model__C"": 14.528246637516036, ""model__penalty"": ""l2"", ""select__feature_set"": ""recommended""}",0.24908933336074046,0.06878305842482563,9,14.528246637516036,l2,recommended
+"{""model__C"": 0.008111941985431923, ""model__penalty"": ""l1"", ""select__feature_set"": ""base""}",0.12125,0.0008333333333333304,19,0.008111941985431923,l1,base
+"{""model__C"": 0.033205591037519584, ""model__penalty"": ""l2"", ""select__feature_set"": ""base""}",0.25450968401586355,0.07875518264250886,5,0.033205591037519584,l2,base
+"{""model__C"": 0.14445251022763064, ""model__penalty"": ""l1"", ""select__feature_set"": ""recommended_no_red_flags""}",0.24897604816047716,0.07991210377176852,10,0.14445251022763064,l1,recommended_no_red_flags
+"{""model__C"": 1.1462107403425035, ""model__penalty"": ""l2"", ""select__feature_set"": ""all""}",0.24730985820960866,0.07010520722936968,14,1.1462107403425035,l2,all
+"{""model__C"": 0.028888383623653185, ""model__penalty"": ""l2"", ""select__feature_set"": ""recommended_no_red_flags""}",0.2553684324079002,0.08159498907161654,4,0.028888383623653185,l2,recommended_no_red_flags
+"{""model__C"": 0.19069966103000435, ""model__penalty"": ""l1"", ""select__feature_set"": ""recommended""}",0.264501202601629,0.08501174371747082,2,0.19069966103000435,l1,recommended
+"{""model__C"": 0.009962513222055111, ""model__penalty"": ""l1"", ""select__feature_set"": ""all""}",0.1959362210566852,0.02860036014091594,18,0.009962513222055111,l1,all
+"{""model__C"": 0.9163741808778786, ""model__penalty"": ""l1"", ""select__feature_set"": ""base""}",0.25343442995242615,0.072104726767915,6,0.9163741808778786,l1,base
+"{""model__C"": 1.0907475835157696, ""model__penalty"": ""l1"", ""select__feature_set"": ""base""}",0.252835493528978,0.07038701674096295,7,1.0907475835157696,l1,base
+"{""model__C"": 0.0021147447960615704, ""model__penalty"": ""l2"", ""select__feature_set"": ""base""}",0.22644130887194308,0.05753484960328599,16,0.0021147447960615704,l2,base
+"{""model__C"": 67.32248920775338, ""model__penalty"": ""l2"", ""select__feature_set"": ""recommended""}",0.2488417743865981,0.06900611821707678,11,67.32248920775338,l2,recommended
+"{""model__C"": 0.03334792728637585, ""model__penalty"": ""l1"", ""select__feature_set"": ""recommended""}",0.26946016058604494,0.061465964874598766,1,0.03334792728637585,l1,recommended
+"{""model__C"": 2.6373339933815254, ""model__penalty"": ""l1"", ""select__feature_set"": ""all""}",0.2484455133925043,0.06981980533002516,12,2.6373339933815254,l1,all

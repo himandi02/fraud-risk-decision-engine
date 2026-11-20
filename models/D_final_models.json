@@ -1,0 +1,50 @@
+{
+  "key": "e69f2fafc40c0873c2b9fb67c4f60338",
+  "seed": 42,
+  "models": {
+    "Dummy": {
+      "best_params": {},
+      "inner_cv_pr_auc": null,
+      "seconds": 0.1
+    },
+    "LR_baseline": {
+      "best_params": {},
+      "inner_cv_pr_auc": null,
+      "seconds": 0.1
+    },
+    "LR_tuned": {
+      "best_params": {
+        "model__C": 0.03334792728637585,
+        "model__penalty": "l1",
+        "select__feature_set": "recommended"
+      },
+      "inner_cv_pr_auc": 0.26946016058604494,
+      "seconds": 12.5
+    },
+    "RF": {
+      "best_params": {
+        "model__max_depth": 3,
+        "model__max_features": 0.6,
+        "model__max_samples": 0.6,
+        "model__min_samples_leaf": 19,
+        "select__feature_set": "recommended"
+      },
+      "inner_cv_pr_auc": 0.2603635314078784,
+      "seconds": 140.4
+    },
+    "HGB": {
+      "best_params": {
+        "model__l2_regularization": 0.035936334594794984,
+        "model__learning_rate": 0.01925833830921759,
+        "model__max_depth": 2,
+        "model__max_features": 0.4,
+        "model__max_iter": 397,
+        "model__max_leaf_nodes": 20,
+        "model__min_samples_leaf": 67,
+        "select__feature_set": "all"
+      },
+      "inner_cv_pr_auc": 0.2447740095559292,
+      "seconds": 50.4
+    }
+  }
+}
