@@ -55,9 +55,9 @@ Two things follow from this:
 
 ## 3. How to run
 
-1. Put the raw data file `transaction_fraud_risk_advanced_dataset.csv` in the notebook folder (the notebook also looks in `/mnt/user-data/uploads/`).
+1. Put the raw data file. 
 2. Put all helper modules next to the notebook.
-3. Run the notebook **top to bottom in order**. Later parts read files written by earlier parts (for example Part D writes `D_oof_predictions.csv`, which Parts E to K read), so skipping a part will fail.
+3. Run the notebook **top to bottom in order**.
 
 ```bash
 jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 01_fraud_risk_analysis.ipynb
